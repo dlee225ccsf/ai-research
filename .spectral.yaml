@@ -1,0 +1,20 @@
+extends: spectral:oas
+
+rules:
+  operation-summary:
+    description: Every operation should have a concise summary.
+    message: "Operation is missing a summary."
+    severity: warn
+    given: $.paths[*][*]
+    then:
+      field: summary
+      function: truthy
+
+  operation-tags:
+    description: Every operation should have at least one tag.
+    message: "Operation should include at least one tag."
+    severity: warn
+    given: $.paths[*][*]
+    then:
+      field: tags
+      function: truthy

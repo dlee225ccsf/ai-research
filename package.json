@@ -1,0 +1,14 @@
+{
+  "name": "ai-research-spec-tooling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Spec-driven development tooling for OpenAPI linting and mocking",
+  "scripts": {
+    "spec:lint": "spectral lint openapi/openapi.yaml",
+    "spec:mock": "prism mock openapi/openapi.yaml --port 4010 --errors"
+  },
+  "devDependencies": {
+    "@stoplight/prism-cli": "4.10.0",
+    "@stoplight/spectral-cli": "^6.14.2"
+  }
+}
