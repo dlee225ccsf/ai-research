@@ -1,9 +1,13 @@
 # ai-research
 Research using AI
 
-Primary execution plans:
-- [WEEK-1-4-EXECUTION-PLAN.md](WEEK-1-4-EXECUTION-PLAN.md)
-- [WEEK-5-12-EXECUTION-PLAN.md](WEEK-5-12-EXECUTION-PLAN.md)
+Primary execution plan:
+- [WEEK-1-12-EXECUTION-PLAN-TYPESCRIPT.md](WEEK-1-12-EXECUTION-PLAN-TYPESCRIPT.md)
+
+Language-specific Week 1-12 plans:
+- [WEEK-1-12-EXECUTION-PLAN-PYTHON.md](WEEK-1-12-EXECUTION-PLAN-PYTHON.md)
+- [WEEK-1-12-EXECUTION-PLAN-JAVA.md](WEEK-1-12-EXECUTION-PLAN-JAVA.md)
+- [WEEK-1-12-EXECUTION-PLAN-CPP.md](WEEK-1-12-EXECUTION-PLAN-CPP.md)
 
 ## Spec-Driven Development Tooling
 

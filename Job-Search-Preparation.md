@@ -6,8 +6,7 @@
 ---
 
 ## Execution Files
-- Consolidated Week 1-4 (primary): `WEEK-1-4-EXECUTION-PLAN.md`
-- Consolidated Week 5-12 (primary): `WEEK-5-12-EXECUTION-PLAN.md`
+- Consolidated Week 1-12 (primary): `WEEK-1-12-EXECUTION-PLAN-TYPESCRIPT.md`
 - Archived detailed weekly files: `archive/`
 
 ---
